@@ -1,3 +1,5 @@
 Aqui estare haciendo una prueba de como sincronizar un documento cualquiera con 
 el github y asi ir haciendo actuazlizaciones y modificaciones.
 
+Le estoy agregando estas lineas como si fuesen lineas de comando nuevas 
+para resubir y observar si crea un archivo nuevo o mantiene este
