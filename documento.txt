@@ -1,0 +1,3 @@
+Aqui estare haciendo una prueba de como sincronizar un documento cualquiera con 
+el github y asi ir haciendo actuazlizaciones y modificaciones.
+
